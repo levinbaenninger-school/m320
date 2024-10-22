@@ -5,6 +5,9 @@
 
     <variables>
         <primary-color>iris</primary-color>
+        <algolia-id>9C4QEQ4NNY</algolia-id>
+        <algolia-api-key>b871f229fcdb1ae9be0e2ee8b062a1c3</algolia-api-key>
+        <algolia-index>prod_M320</algolia-index>
     </variables>
     <build-profile instance="m">
         <variables>
