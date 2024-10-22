@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE buildprofiles SYSTEM "https://resources.jetbrains.com/writerside/1.0/build-profiles.dtd">
+<buildprofiles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd">
+
+    <variables>
+        <primary-color>iris</primary-color>
+    </variables>
+    <build-profile instance="m">
+        <variables>
+            <noindex-content>true</noindex-content>
+        </variables>
+        <footer>
+            <copyright>Levin Bänninger 2024</copyright>
+            <social type="linkedin" href="https://www.linkedin.com/in/levinbaenninger/">LinkedIn</social>
+            <social type="email" href="mailto:me@levinbaenninger.dev">E-Mail</social>
+            <social type="blog" href="https://levinbaenninger.dev">Portfolio</social>
+        </footer>
+    </build-profile>
+
+</buildprofiles>

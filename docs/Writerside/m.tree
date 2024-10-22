@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="m"
+                  name="M320" start-page="Grundlagen.md">
+
+    <toc-element topic="Grundlagen.md">
+        <toc-element topic="Begriffe.md"/>
+        <toc-element topic="Properties.md"/>
+        <toc-element topic="Datenkapselung.md"/>
+    </toc-element>
+    <toc-element topic="UML.md">
+        <toc-element topic="Klassen.md"/>
+        <toc-element topic="Attribute.md"/>
+        <toc-element topic="Methoden.md"/>
+        <toc-element topic="Assoziationen.md">
+            <toc-element topic="Assoziation.md"/>
+            <toc-element topic="Aggregation.md"/>
+            <toc-element topic="Komposition.md"/>
+            <toc-element topic="Vererbung.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="C.md">
+        <toc-element topic="Methoden-überladen.md"/>
+        <toc-element topic="Primitive-Datentypen-und-Objekte.md"/>
+        <toc-element topic="this-Verweis.md"/>
+        <toc-element topic="Konstruktoren.md"/>
+        <toc-element topic="Objektinitialisierung.md"/>
+        <toc-element topic="Listentypen.md"/>
+    </toc-element>
+</instance-profile>
